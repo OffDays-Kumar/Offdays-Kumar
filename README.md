@@ -1,5 +1,8 @@
 <!-- Profile README for OffDays-Kumar -->
 <div align="center">
+<img src="assets/profile-banner.svg" alt="Kumar — HR and Operations, Workforce Management, Process Improvement" width="100%">
+</div>
+<div align="center">
 
 # Hi, I'm Kumar 👋
 ### HR & Operations | Workforce Management | Process Optimization
